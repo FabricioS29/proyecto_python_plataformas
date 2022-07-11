@@ -3,8 +3,8 @@
 
 ### Integrantes:
 Fabricio Solano Rojas B77447
-Miguel Zamora Torres B78542
-Delvin Ríos Rodríguez B76319
+,Miguel Zamora Torres B78542
+y Delvin Ríos Rodríguez B76319
 
 ### Ejecución del juego
 Para ejecutar el juego se debe ir al directorio principal y entrar a la carpeta codigo
