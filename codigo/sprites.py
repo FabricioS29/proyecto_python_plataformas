@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Alumno: Fabrisio Solano Rojas
+Alumno: Fabricio Solano Rojas
 Carnet: B77447
 
 Alumno: Miguel Zamora Torres
@@ -102,7 +102,7 @@ class Bird(pygame.sprite.Sprite):
 
         # Se determina el sonido que va a ejecutar el ave con cada brinco
         self.jump_sound = pygame.mixer.Sound('../sonidos/salto.wav')
-        self.jump_sound.set_volume(0.2)
+        self.jump_sound.set_volume(0.3)
 
     # Se establece la funcion que hace el efecto del movimiento de las alas
     # del ave

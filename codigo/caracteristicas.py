@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Alumno: Fabrisio Solano Rojas
+Alumno: Fabricio Solano Rojas
 Carnet: B77447
 
 Alumno: Miguel Zamora Torres
